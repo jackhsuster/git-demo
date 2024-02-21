@@ -1,0 +1,5 @@
+DDD stands for Domain-Driven Design. 
+It is an approach to software development that focuses on understanding and modeling the domain of the problem at hand. DDD emphasizes collaboration between domain experts and developers to create a shared understanding of the problem domain and to design software that reflects that understanding. It provides a set of principles and patterns for structuring and organizing complex software systems.
+
+少林足球卡拉OK
+
